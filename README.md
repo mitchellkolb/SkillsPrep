@@ -38,8 +38,7 @@
 
 ## :dart: About ##
 
-Describe your project
-
+A repository of files where I test myself on the syntax of different langauges or general interview prep .
 ## :sparkles: Features ##
 
 :heavy_check_mark: Python;\
