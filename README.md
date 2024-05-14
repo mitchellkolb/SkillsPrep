@@ -2,19 +2,19 @@
 <h1 align="center">Skills Prep</h1>
 
 <p align="center">
-  <img alt="Github top language" src="https://img.shields.io/github/languages/top/Mitchell-kolb/SkillsPrep?color=56BEB8">
+  <img alt="Github top language" src="https://img.shields.io/github/languages/top/mitchellkolb/SkillsPrep?color=56BEB8">
 
-  <img alt="Github language count" src="https://img.shields.io/github/languages/count/Mitchell-kolb/SkillsPrep?color=56BEB8">
+  <img alt="Github language count" src="https://img.shields.io/github/languages/count/mitchellkolb/SkillsPrep?color=56BEB8">
 
-  <img alt="Repository size" src="https://img.shields.io/github/repo-size/Mitchell-kolb/SkillsPrep?color=56BEB8">
+  <img alt="Repository size" src="https://img.shields.io/github/repo-size/mitchellkolb/SkillsPrep?color=56BEB8">
 
-  <img alt="License" src="https://img.shields.io/github/license/Mitchell-kolb/SkillsPrep?color=56BEB8">
+  <img alt="License" src="https://img.shields.io/github/license/mitchellkolb/SkillsPrep?color=56BEB8">
 
   <!-- <img alt="Github issues" src="https://img.shields.io/github/issues/{{YOUR_GITHUB_USERNAME}}/customtkinter-tutorial?color=56BEB8" /> -->
 
   <!-- <img alt="Github forks" src="https://img.shields.io/github/forks/{{YOUR_GITHUB_USERNAME}}/customtkinter-tutorial?color=56BEB8" /> -->
 
-  <img alt="Github stars" src="https://img.shields.io/github/stars/Mitchell-kolb/SkillsPrep?color=56BEB8" />
+  <img alt="Github stars" src="https://img.shields.io/github/stars/mitchellkolb/SkillsPrep?color=56BEB8" />
 </p>
 
 <!-- Status -->
@@ -31,7 +31,7 @@
   <a href="#white_check_mark-requirements">Requirements</a> &#xa0; | &#xa0;
   <a href="#checkered_flag-starting">Starting</a> &#xa0; | &#xa0;
   <a href="#memo-license">License</a> &#xa0; | &#xa0;
-  <a href="https://github.com/{{YOUR_GITHUB_USERNAME}}" target="_blank">Author</a>
+  <a href="https://github.com/mitchellkolb" target="_blank">Author</a>
 </p>
 
 <br>
@@ -54,7 +54,7 @@ Before starting :checkered_flag:, you need to have [Git](https://git-scm.com) an
 
 ```bash
 # Clone this project
-$ git clone https://github.com/Mitchell-kolb/SkillsPrep
+$ git clone https://github.com/mitchellkolb/SkillsPrep
 
 # Access
 $ cd SkillsPrep/FolderName
@@ -68,7 +68,7 @@ $ ./File_name
 ```
 
 
-Made with :heart: by <a href="https://github.com/Mitchell-kolb" target="_blank">Mitchell Kolb</a>
+Made with :heart: by <a href="https://github.com/mitchellkolb" target="_blank">Mitchell Kolb</a>
 &#xa0;
 
 <a href="#top">Back to top</a>
